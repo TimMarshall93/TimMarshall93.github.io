@@ -10,7 +10,7 @@ body {
 .header {
     background-color:green;
     text-align: center;
-    padding: 20px;
+    padding: 20px; 
 }
 /* Style the top navigation bar */
 .topnav {
